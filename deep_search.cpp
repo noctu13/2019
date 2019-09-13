@@ -50,7 +50,7 @@ int f(status *s) {
         (*s).chain.pop_back();
         return f(s);
     }
-    ++(*s).point.second;//смещение справо
+    ++(*s).point.second;//смещение вправо
     (*s).point.first = 0;
     return f(s);
 }
