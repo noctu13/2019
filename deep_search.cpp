@@ -1,3 +1,4 @@
+//Алгоритм для нахождения общего количества позиций непересекающихся ферзей на поле NxN
 #include<iostream>
 #include<vector>
 using namespace std;
