@@ -1,3 +1,5 @@
+//Простая реализация консольного календаря
+//нет некоторых проверок на ограничения в классе Date
 #include <iostream>
 #include <iomanip>
 #include <string>
